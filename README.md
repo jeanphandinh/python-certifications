@@ -32,8 +32,8 @@ Thèmes principaux étudiés :
 - entrées/sorties et fichiers.
 
 ## Certifications
-- Python Essentials 1 : [ajouter le lien ici]
-- Python Essentials 2 : [ajouter le lien ici ou écrire "en cours"]
+- Python Essentials 1 : https://www.credly.com/badges/5151efc2-a906-4578-9ef7-53180e734c50/public_url
+- Python Essentials 2 : https://www.credly.com/badges/ca75a647-5a26-48e6-b111-fa9d37778616/public_url
 
 ## Remarque
 Les exercices personnels réalisés en dehors du parcours de certification sont regroupés dans un autre dépôt dédié à la pratique.
